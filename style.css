@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    position: relative;
+    
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: steelblue;
+    margin: 5px;
+    border: 2px solid black;
+}
+.box-2{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
